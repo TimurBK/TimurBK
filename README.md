@@ -7,7 +7,7 @@ focus on **technical leadership** (setting direction, mentoring, raising the qua
 - 🧑‍💻 Currently a **Senior iOS Engineer** on the **EA Sports App**.
 - 🏢 Previously **4+ years at Meta** (London), working across the stack - mobile, backend and VR.
 - ⚡ I care about **performance, reliability and quality**: large memory/footprint
-  reductions, performance profiling, and standing up testing + CI from the ground up.
+  reductions, performance profiling, and standing up automated testing from the ground up.
 - 🛠️ **Swift · Objective-C · SwiftUI**, plus full-stack work (TypeScript, Go, Python,
   Kotlin, Docker) - increasingly with modern AI tooling.
 - ⚽ Goalkeeper in an amateur football side - organising the defence and communicating
