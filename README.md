@@ -1,13 +1,17 @@
 # Hi, I'm Timur 👋
 
-Senior **iOS / mobile engineer** (~15 years) building and shipping high-quality
-consumer apps - deep Apple-platform expertise with full-stack breadth, and a growing
-focus on **technical leadership** (setting direction, mentoring, raising the quality bar).
+**iOS / mobile technical leader** (~15 years) building and shipping high-quality consumer
+apps - deep Apple-platform expertise, full-stack breadth, and a habit of setting direction
+beyond my own team: cross-org quality programs, performance work, and testing culture that sticks.
 
-- 🧑‍💻 Currently a **Senior iOS Engineer** on the **EA Sports App**.
-- 🏢 Previously **4+ years at Meta** (London), working across the stack - mobile, backend and VR.
-- ⚡ I care about **performance, reliability and quality**: large memory/footprint
-  reductions, performance profiling, and standing up automated testing from the ground up.
+- 🧑‍💻 Currently a **Senior iOS Engineer** on the **EA Sports App** - recently cut peak memory
+  **~3×**, took a largely untested codebase to **450+ tests** running on every diff, and shipped
+  the app's **World Cup 2026** flagship feature end to end.
+- 🏢 Previously **4+ years at Meta** (London), mostly on **product-reliability teams**: sole
+  mobile DRI of an org-wide test-automation program (~8 teams), a subsystem shipped in a
+  company-wide storage library, and a five-engineer web-performance project led to its goals.
+- ⚡ I care about **performance, reliability and quality**: production telemetry, release
+  quality gates, large memory reductions, and automated testing built from the ground up.
 - 🛠️ **Swift · Objective-C · SwiftUI**, plus full-stack work (TypeScript, Go, Python,
   Kotlin, Docker) - increasingly with modern AI tooling.
 - ⚽ Goalkeeper in an amateur football side - organising the defence and communicating
